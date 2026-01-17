@@ -58,23 +58,7 @@ My stack is not just languages; it's a methodology driven by **Versor Engenharia
 
 ### 📊 The Metrics
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=180 src="https://github-readme-stats.vercel.app/api?username=fcfim&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcfim&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-  </a>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=fcfim)]
 
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fcfim&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
 
----
 
-<div align="center">
-  <sub>"Quality is not an act, it is a habit." — Transforming experience into algorithms since 2014.</sub>
-</div>
