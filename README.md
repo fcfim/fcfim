@@ -1,13 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=180&section=header&text=Filipe%20Fim&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Civil%20Engineer%20%7C%20Administrator%20%7C%20Full%20Stack%20Builder&descAlignY=55&descSize=20" />
+<h1 style="text-align: center;">Filipe C. Fim</h1>
 </div>
 
 <div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&width=610&height=30&lines=Civil+Engineer+%7C+Administrator+%7C+Full+Stack+Builder" alt="Typing SVG" /></a>
+</div>
+<p>&nbsp;</p>
+<div align="center">
   <a href="https://linkedin.com/in/filipefim" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
   </a>
   <a href="https://instagram.com/fimfilipe" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
   </a>
    <a href="https://versorengenharia.com.br" target="_blank">
     <img src="https://img.shields.io/badge/Versor_Eng-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank" />
@@ -41,8 +45,17 @@ My stack is not just languages; it's a methodology driven by **Versor Engenharia
 
 ### 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,nextjs,postgres,docker,git,github,vscode&perline=15" />
+<div align="start">
+
+#### - Backend
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,mysql,postgres,firebase,supabase" />
+
+#### - Frontend
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind" />
+
+#### - Tools & Others
+<img src="https://skillicons.dev/icons?i=github,vscode,docker" />
+
 </div>
 
 ---
