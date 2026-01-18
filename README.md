@@ -1,16 +1,66 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=180&section=header&text=Filipe%20Fim&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Civil%20Engineer%20%7C%20Administrator%20%7C%20Full%20Stack%20Builder&descAlignY=55&descSize=20" />
+</div>
 
-<!--
-**fcfim/fcfim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://linkedin.com/in/filipefim" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://instagram.com/fimfilipe" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+   <a href="https://versorengenharia.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Versor_Eng-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+I am a **Civil Engineer** and **Administrator** with a strong background in Software Development.
+
+My journey in the construction industry began in **2014**, starting as a Technician in Buildings (*Técnico em Edificações*). This path took me through engineering firms, architectural offices, and independent consultancy, giving me a deep understanding of the sector's real-world challenges.
+
+Currently, I channel this decade of experience into **Versor Engenharia** and my software projects.
+
+Although I completed most of a **Systems Analysis & Development (ADS)** degree, I pivoted my focus to practical application and product development before graduation. Today, I operate as a Full Stack Developer who understands the business logic and engineering norms behind the code.
+
+### 📐 The Triad of Value
+
+My stack is not just languages; it's a methodology driven by **Versor Engenharia**:
+
+| Vertex | Focus | Why it Matters |
+| :--- | :--- | :--- |
+| **👷🏼‍♂️ Civil Engineering** | `Compliance` `ABNT NBR` `Structural Logic` | Technical accuracy and normative compliance (ABNT NBR). |
+| **💼 Business Admin** | `Scalability` `Unit Economics` `Viability` | Focus on economic viability and process optimization. |
+| **💻 Full Stack Dev** | `Clean Arch` `Automation` `Interoperability` | Creating tools to automate and solve the industry's specific problems. 
+ 
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,nextjs,postgres,docker,git,github,vscode&perline=15" />
+</div>
+
+---
+
+### 🌱 Current Focus & Projects
+
+I develop specialized SaaS products and tools to bridge the gap between engineering theory and digital efficiency:
+
+- 🏗️ **Structural & Valuation SaaS (Stealth Mode):** Developing an ecosystem to automate complex structural calculations and real estate appraisals, minimizing human error.
+- 🧱 **Engineering APIs:** Writing structural algorithms exposed as documented REST APIs to improve software interoperability.
+- 📚 **EdTech for High Performance:** A data-driven platform focused on study planning, execution metrics, and adaptive learning.
+- ⚙️ **Process Automation:** Custom scripts to modernize legacy workflows and integrate disconnected systems for public and private sectors.
+
+---
+
+### 📊 The Metrics
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=fcfim)]
+
+
+
