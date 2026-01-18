@@ -73,7 +73,7 @@ I develop specialized SaaS products and tools to bridge the gap between engineer
 
 ### 📊 The Metrics
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=fcfim)]
 
+[![fcfim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fcfim&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
