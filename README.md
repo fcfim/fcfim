@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&width=610&height=30&lines=Civil+Engineer+%7C+Administrator+%7C+Full+Stack+Builder" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&width=610&height=30&lines=Civil+Engineer+%7C+Administrator+%7C+Full+Stack+Dev" alt="Typing SVG" /></a>
 </div>
 <p>&nbsp;</p>
 <div align="center">
@@ -24,7 +24,7 @@
 
 I am a **Civil Engineer** and **Administrator** with a strong background in Software Development.
 
-My journey in the construction industry began in **2014**, starting as a Technician in Buildings (*Técnico em Edificações*). This path took me through engineering firms, architectural offices, and independent consultancy, giving me a deep understanding of the sector's real-world challenges.
+My journey in the construction industry began in **2014**, starting as a Technician in Buildings. This path took me through engineering firms, architectural offices, and independent consultancy, giving me a deep understanding of the sector's real-world challenges.
 
 Currently, I channel this decade of experience into **Versor Engenharia** and my software projects.
 
