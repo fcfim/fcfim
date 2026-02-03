@@ -53,10 +53,20 @@ My stack is not just languages; it's a methodology driven by **Versor Engenharia
 #### - Frontend
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind" />
 
+#### - AI & Cloud
+<img src="https://skills.syvixor.com/api/icons?i=claudeai,googlegemini,coderabbit,googlecloud" />
+
 #### - Tools & Others
 <img src="https://skillicons.dev/icons?i=github,vscode,docker" />
 
 </div>
+
+---
+
+### 🚀 AI & Development Workflow
+* **Claude & Gemini:** Utilizados para arquitetura de software, geração de testes unitários e otimização de queries complexas.
+* **CodeRabbit:** Implementado como camada de revisão contínua (CI) para garantir a integridade do código antes do deploy.
+* **Google Cloud:** Hosting e escalonamento de aplicações backend e serviços de dados.
 
 ---
 
