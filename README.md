@@ -3,18 +3,18 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&width=610&height=30&lines=Civil+Engineer+%7C+Administrator+%7C+Full+Stack+Dev" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&width=500&height=30&lines=Civil+Engineer+%7C+Full+Stack+Developer" alt="Typing SVG" /></a>
 </div>
 <p>&nbsp;</p>
 <div align="center">
   <a href="https://linkedin.com/in/filipefim" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/fimfilipe" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
    <a href="https://versorengenharia.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Versor_Eng-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Versor_Eng-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
 
@@ -22,68 +22,45 @@
 
 ### 🚀 About Me
 
-I am a **Civil Engineer** and **Administrator** with a strong background in Software Development.
+I am a **Civil Engineer** and **Full Stack Developer** based in Brazil. With over a decade of experience in the construction and infrastructure sector, I bridge the gap between complex engineering theory and digital efficiency. 
 
-My journey in the construction industry began in **2014**, starting as a Technician in Buildings. This path took me through engineering firms, architectural offices, and independent consultancy, giving me a deep understanding of the sector's real-world challenges.
-
-Currently, I channel this decade of experience into **Versor Engenharia** and my software projects.
-
-Although I completed most of a **Systems Analysis & Development (ADS)** degree, I pivoted my focus to practical application and product development before graduation. Today, I operate as a Full Stack Developer who understands the business logic and engineering norms behind the code.
-
-### 📐 The Triad of Value
-
-My stack is not just languages; it's a methodology driven by **Versor Engenharia**:
-
-| Vertex | Focus | Why it Matters |
-| :--- | :--- | :--- |
-| **👷🏼‍♂️ Civil Engineering** | `Compliance` `ABNT NBR` `Structural Logic` | Technical accuracy and normative compliance (ABNT NBR). |
-| **💼 Business Admin** | `Scalability` `Unit Economics` `Viability` | Focus on economic viability and process optimization. |
-| **💻 Full Stack Dev** | `Clean Arch` `Automation` `Interoperability` | Creating tools to automate and solve the industry's specific problems. 
- 
+I specialize in translating technical normative compliance (ABNT NBR) and structural logic into scalable software architectures, operating at the intersection of civil engineering and high-performance technology.
 
 ---
 
-### 🛠️ Tech Stack
+### 🌱 What I'm Building
+
+Instead of just writing code, I build platforms that solve specific industry and productivity bottlenecks:
+
+- 🏗️ **Structural & Valuation SaaS (Stealth):** Specialized platforms designed to automate complex calculations and real estate appraisals, minimizing human error and standardizing technical outputs.
+- 📚 **High-Performance EdTech (Stealth):** A data-driven platform focused on study planning, execution metrics, and adaptive learning for highly competitive exams.
+- ⚙️ **Versor Engenharia:** My engineering firm, where theory meets practice through technical dimensioning, municipal inspections, and structural compliance.
+
+---
+
+### 🛠️ Tech Stack & Workflow
 
 <div align="start">
 
-#### - Backend
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,mysql,postgres,firebase,supabase" />
+**Core Development**  
+Focus on performance, static typing, and modular interfaces.
+<br>
+<img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,nodejs,nestjs,python" />
 
-#### - Frontend
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind" />
+**Database & Cloud Architecture**  
+Data modeling, backend hosting, and service orchestration.
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase,googlecloud" />
 
-#### - AI & Cloud
-<img src="https://skills.syvixor.com/api/icons?i=claudeai,googlegemini,coderabbit,googlecloud" />
-
-#### - Tools & Others
-<img src="https://skillicons.dev/icons?i=github,vscode,docker" />
+**DevOps & AI Accelerators**  
+Advanced use of LLMs (Claude/Gemini) for test automation and refactoring, with CodeRabbit for CI/CD code reviews to ensure integrity before deployment.
+<br>
+<img src="https://skills.syvixor.com/api/icons?i=coderabbit,claudeai,googlegemini,github,vscode,docker" />
 
 </div>
 
 ---
 
-### 🚀 AI & Development Workflow
-* **Claude & Gemini:** Utilizados para arquitetura de software, geração de testes unitários e otimização de queries complexas.
-* **CodeRabbit:** Implementado como camada de revisão contínua (CI) para garantir a integridade do código antes do deploy.
-* **Google Cloud:** Hosting e escalonamento de aplicações backend e serviços de dados.
-
----
-
-### 🌱 Current Focus & Projects
-
-I develop specialized SaaS products and tools to bridge the gap between engineering theory and digital efficiency:
-
-- 🏗️ **Structural & Valuation SaaS (Stealth Mode):** Developing an ecosystem to automate complex structural calculations and real estate appraisals, minimizing human error.
-- 🧱 **Engineering APIs:** Writing structural algorithms exposed as documented REST APIs to improve software interoperability.
-- 📚 **EdTech for High Performance:** A data-driven platform focused on study planning, execution metrics, and adaptive learning.
-- ⚙️ **Process Automation:** Custom scripts to modernize legacy workflows and integrate disconnected systems for public and private sectors.
-
----
-
-### 📊 The Metrics
-
+### 📊 GitHub Activity
 
 [![fcfim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fcfim&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
