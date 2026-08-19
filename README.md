@@ -8,7 +8,7 @@ Based in Brazil, I bring more than ten years of experience in construction and i
 
 [LinkedIn](https://linkedin.com/in/filipefim) · [Versor Engenharia](https://versorengenharia.com.br)
 
-## Selected Work
+## Focus areas
 
 ### Engineering software
 
