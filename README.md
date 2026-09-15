@@ -2,9 +2,9 @@
 
 Civil Engineer and Software Developer
 
-I work at the intersection of civil engineering and software development, building reliable digital tools for technical calculations, regulatory compliance, real estate valuation, and professional productivity.
+I build practical software for structural calculations, standards compliance, real estate valuation, and engineering workflows.
 
-Based in Brazil, I bring more than ten years of experience in construction and infrastructure to the design of practical software systems.
+Based in Brazil, I bring more than ten years of experience in construction and infrastructure to software development. My work is shaped by real engineering problems, technical standards, documentation, and the decisions engineers deal with in practice.
 
 [LinkedIn](https://linkedin.com/in/filipefim) · [Versor Engenharia](https://versorengenharia.com.br)
 
@@ -12,19 +12,19 @@ Based in Brazil, I bring more than ten years of experience in construction and i
 
 ### Engineering software
 
-Specialized platforms for structural calculations, technical documentation, regulatory compliance, and real estate valuation.
+Tools for structural calculations, standards compliance, technical documentation, real estate valuation, and engineering workflows.
 
 ### Education technology
 
-Data-driven tools for study planning, performance analysis, and adaptive learning in competitive examination environments.
+Data-driven tools for study planning, performance analysis, and adaptive learning for competitive exams.
 
 ### Versor Engenharia
 
-Engineering practice focused on technical design, municipal inspections, structural assessment, and regulatory compliance.
+Civil engineering practice focused on technical design, construction, inspections, structural assessment, property regularization, and standards compliance.
 
 ## Technical Expertise
 
 - TypeScript, JavaScript, Python, React, Next.js, Node.js, and NestJS
 - PostgreSQL, MySQL, Firebase, Supabase, and Google Cloud
 - Software architecture, data modeling, automation, testing, and continuous integration
-- Civil engineering workflows, technical standards, and structural logic
+- Civil engineering workflows, structural design logic, technical standards, and computational methods
