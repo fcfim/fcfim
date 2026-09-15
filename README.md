@@ -24,7 +24,7 @@ Civil engineering practice focused on technical design, construction, inspection
 
 ## Technical Expertise
 
-- TypeScript, JavaScript, Python, React, Next.js, Node.js, and NestJS
-- PostgreSQL, MySQL, Firebase, Supabase, and Google Cloud
-- Software architecture, data modeling, automation, testing, and continuous integration
-- Civil engineering workflows, structural design logic, technical standards, and computational methods
+- TypeScript, Python, React, Next.js, Node.js, and NestJS
+- PostgreSQL and Supabase
+- Software architecture, API design, data modeling, testing, and CI/CD
+- Engineering computation, numerical methods, standards-driven validation, and domain-specific software design
