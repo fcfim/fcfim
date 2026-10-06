@@ -2,50 +2,42 @@
 
 Civil engineer building software.
 
-I like turning real-world problems, technical rules, and messy workflows into useful tools.
+I spent more than ten years working in construction and infrastructure. These days, most of my time goes into software.
 
-A lot of what I build sits somewhere between engineering and software — calculations, standards, technical documentation, data-heavy workflows, and the occasional tool I wish already existed.
+I mostly work in **TypeScript**, with **Next.js** and **PostgreSQL**. Since I work solo on most of my projects, I usually end up handling the whole thing: UI, application logic, data, deployment and, more recently, infrastructure.
 
-I've spent more than ten years working with construction and infrastructure, so I tend to bring some of that mindset into software too: understand the constraints, make the rules explicit, test the weird cases, and measure what actually matters.
-
-These days I mostly work in **TypeScript**, building full-stack applications with **Next.js** and **PostgreSQL**. Working solo means I usually end up owning most of the stack too — from UI and application logic to data, deployment, and increasingly infrastructure.
-
-I also work with **Swift**, and Python has been part of my toolkit for years.
+I also work with **Swift**. Python has been part of my toolkit for years.
 
 ## What I'm working on
 
 ### Engineering software
 
-This is where my engineering and software background naturally overlap.
+A lot of my projects come from problems I already know from engineering.
 
-I've been building tools around structural calculations, technical standards, documentation, real estate valuation, and engineering workflows.
+I've built tools for structural calculations, technical standards, documentation, real estate valuation and engineering workflows.
 
-I like the part where equations, standards, business rules, and all the odd real-world exceptions eventually have to become software you can actually trust.
+I like this kind of software. The rules need to be explicit, the edge cases are usually real, and getting the result almost right isn't enough.
 
 ### Developer tools
 
-I also tend to build things around problems I run into myself.
+I tend to build tools when something in my own workflow bothers me enough.
 
-Lately that's meant working on Codex tooling, usage monitoring, diagnostics, desktop integrations, and different ways of making AI-assisted development workflows a bit better.
+Lately I've been working on Codex usage monitoring, diagnostics, desktop integrations and a few experiments around AI-assisted development.
 
-A lot of these start as small experiments and end up becoming a good excuse to understand how things work a few layers deeper.
+Most of these start small. Sometimes they don't stay small.
 
 ### Data and education
 
-I've also worked on tools for study planning, performance analysis, and adaptive learning.
+I've also built tools for study planning, performance analysis and adaptive learning.
 
-Different domain, similar problems: messy data, lots of rules, and figuring out how to turn them into something actually useful.
+There's a lot of data involved, a lot of rules, and plenty of room to make the workflow better.
 
-## Things I keep coming back to
+## Other stuff
 
-TypeScript, Next.js, PostgreSQL, Swift, and Python.
-
-Beyond the stack itself, I'm usually interested in data modeling, APIs, testing, numerical methods, deterministic behavior, developer tooling, infrastructure, and systems where correctness matters.
-
-I occasionally wander into procedural generation, simulation, networking, and game systems too.
+I still spend some time on simulation, procedural generation, networking and game systems, mostly through side projects and technical experiments.
 
 ## Engineering
 
-Outside software, I run [Versor Engenharia](https://versorengenharia.com.br), working with technical design, construction, inspections, structural assessment, property regularization, and standards compliance.
+I also run [Versor Engenharia](https://versorengenharia.com.br), where I work with technical design, construction, inspections, structural assessment, property regularization and standards compliance.
 
 [LinkedIn](https://linkedin.com/in/filipefim)
